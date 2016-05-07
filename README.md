@@ -2,7 +2,11 @@
 
 ## Use random forest to forecast price range index
 
+![History and forecast of price range index of QQQ](qqq_history.png)
 
+![1 year forecast of price range index of QQQ](qqq_forecast.png)
+
+![Features used in training](qqq_features.png)
 
 ## 3-fold cross validation on regression forest
 
@@ -17,9 +21,9 @@ Correlation Coeff:      0.8784192026849799
 Coeff of Determination: 0.663219526058019  
 
 Fold 3  
- 0.686648  
- 0.66322   
- 0.668811  
+Mean Squared Error:     0.686648  
+Correlation Coeff:      0.66322   
+Coeff of Determination: 0.668811  
 
 Mean Squared Error:     0.03993355093708467  
 Correlation Coeff:      0.8729765160268677  
