@@ -11,22 +11,22 @@
 ## 3-fold cross validation on regression forest
 
 Fold 1  
-Mean Squared Error:     0.035592704318349114  
-Correlation Coeff:      0.8809086095251721  
-Coeff of Determination: 0.6866483193550755  
+Mean Squared Error:     0.03301430596110305  
+Correlation Coeff:      0.8975811204169653  
+Coeff of Determination: 0.7126232338555871  
 
 Fold 2  
-Mean Squared Error:     0.04147502963862541  
-Correlation Coeff:      0.8784192026849799  
-Coeff of Determination: 0.663219526058019  
+Mean Squared Error:     0.03742714731444815  
+Correlation Coeff:      0.8961463767086401  
+Coeff of Determination: 0.6920364923193434  
 
 Fold 3  
-Mean Squared Error:     0.686648  
-Correlation Coeff:      0.66322   
-Coeff of Determination: 0.668811  
+Mean Squared Error:     0.712623  
+Correlation Coeff:      0.692036  
+Coeff of Determination: 0.692959  
 
-Mean Squared Error:     0.03993355093708467  
-Correlation Coeff:      0.8729765160268677  
-Coeff of Determination: 0.668810710826588  
+Mean Squared Error:     0.036378563092793775  
+Correlation Coeff:      0.8898550942759844  
+Coeff of Determination: 0.6929588511277167  
 
-Mean Coeff of Determination: 0.6728928520798942
+Mean Coeff of Determination: 0.6992061924342158
