@@ -13,7 +13,7 @@ Trees:      100
 Avg Leaves: 460.97  
 Avg Depth:  23.8  
 
-## 3-fold cross validation on regression forest
+## 3-fold cross validation on the random forest
 
 Fold 1  
 Mean Squared Error:     0.034623180625582395  
