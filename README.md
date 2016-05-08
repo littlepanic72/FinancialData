@@ -26,10 +26,6 @@ Correlation Coeff:      0.9150934546617377
 Coeff of Determination: 0.7293181231108234  
 
 Fold 3  
-Mean Squared Error:     0.732144  
-Correlation Coeff:      0.729318  
-Coeff of Determination: 0.714252  
-
 Mean Squared Error:     0.03341205552292637  
 Correlation Coeff:      0.8997983221864012  
 Coeff of Determination: 0.7142518656545618  
