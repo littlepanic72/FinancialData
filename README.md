@@ -1,6 +1,6 @@
 # FinancialData
 
-## Julia code that fetchs financial data from Yahoo/Quandl and forecasts stock price range index using random forests
+## This Julia code fetchs financial data from Yahoo/Quandl and forecasts stock price ranges using random forests.
 
 ![History and forecast of price range index of QQQ](qqq_history.png)
 
