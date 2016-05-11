@@ -8,7 +8,7 @@
 
 ![Features for training](qqq_features.png)
 
-## Details of the fitted random forest
+## Details of the random forest
 
 Ensemble of Decision Trees  
 Trees:      100  
