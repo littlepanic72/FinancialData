@@ -6,7 +6,7 @@
 
 ![1 year forecast](spy_forecast.png)
 
-![Features used in training](spy_features.png)
+![Features for training](spy_features.png)
 
 ## Ensemble of Decision Trees
 
