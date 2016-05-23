@@ -8,6 +8,8 @@
 
 ![Features for training](spy_features.png)
 
+![Volatility](spy_volatility)
+
 ## Ensemble of Decision Trees
 
 Trees:      100  
