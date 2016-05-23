@@ -8,7 +8,7 @@
 
 ![Features for training](spy_features.png)
 
-![Volatility](spy_volatility)
+![Volatility](spy_volatility.png)
 
 ## Ensemble of Decision Trees
 
