@@ -2,8 +2,6 @@
 
 ## This Julia program fetches financial data from Yahoo Finance/Quandl and forecasts short-term price ranges in the future using random forests.
 
-## Results
-
 ### Ensemble of Decision Trees
 
 Trees:      100  
