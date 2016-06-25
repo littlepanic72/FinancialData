@@ -5,35 +5,35 @@
 ### Ensemble of Decision Trees
 
 Trees:      100  
-Avg Leaves: 415.59  
-Avg Depth:  29.82
+Avg Leaves: 420.11  
+Avg Depth:  29.0
 
 ### 3-fold cross validation on regression forest
 
 Fold 1
 
-Mean Squared Error:     0.013506732237340897  
-Correlation Coeff:      0.9452438694109276  
-Coeff of Determination: 0.8771963351855612
+Mean Squared Error:     0.013124759952730639  
+Correlation Coeff:      0.9504340785197969  
+Coeff of Determination: 0.8809515856436015
 
 Fold 2
 
-Mean Squared Error:     0.0127880043454881  
-Correlation Coeff:      0.9495946508407064  
-Coeff of Determination: 0.8826092401509804
+Mean Squared Error:     0.012532163957448474  
+Correlation Coeff:      0.9566416745919043  
+Coeff of Determination: 0.8890844022633395
 
 Fold 3
 
-Mean Squared Error:     0.011812978150587397  
-Correlation Coeff:      0.9620822330219206  
-Coeff of Determination: 0.8947737299087323
+Mean Squared Error:     0.012582613773020633  
+Correlation Coeff:      0.9468737348224784  
+Coeff of Determination: 0.8818078055142929
 
-#### Mean Coeff of Determination: 0.8848597684150913
+#### Mean Coeff of Determination: 0.8839479311404114
 
-![1 year forecast](output_37_0.png)
+![1 year forecast](output_27_0.png)
 
-![History and forecast](output_36_0.png)
+![History and forecast](output_26_0.png)
 
-![Features used in model training](output_33_0.png)
+![Features used in model training](output_23_0.png)
 
-![Volatility](output_17_0.png)
+![Volatility](output_29_0.png)
