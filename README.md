@@ -4,26 +4,26 @@
 
 ### Ensemble of Decision Trees  
 Trees:      100  
-Avg Leaves: 438.84  
-Avg Depth:  30.3  
+Avg Leaves: 438.92  
+Avg Depth:  30.65  
 
 ### 3-fold cross validation on regression forest  
 Fold 1  
-Mean Squared Error:     0.012817749006001425  
-Correlation Coeff:      0.9506076091759378  
-Coeff of Determination: 0.8789894869705063  
+Mean Squared Error:     0.014223813020761287  
+Correlation Coeff:      0.9469233705611833  
+Coeff of Determination: 0.8692589889371432  
 
 Fold 2  
-Mean Squared Error:     0.013601533047740573  
-Correlation Coeff:      0.9504973528689508  
-Coeff of Determination: 0.8776992283225045  
+Mean Squared Error:     0.013609144779382772  
+Correlation Coeff:      0.945900623295796  
+Coeff of Determination: 0.871852067358602  
 
 Fold 3  
-Mean Squared Error:     0.01186156250273878  
-Correlation Coeff:      0.9534535307667165  
-Coeff of Determination: 0.8883224368305878  
+Mean Squared Error:     0.013001991404043354  
+Correlation Coeff:      0.9484130855432567  
+Coeff of Determination: 0.8805596711384951  
 
-Mean Coeff of Determination: 0.8816703840411995
+Mean Coeff of Determination: 0.87389024247808  
 
 ![1 year forecast](output_28_0.png)
 
